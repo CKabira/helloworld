@@ -1,2 +1,2 @@
 # helloworld
-Hello World
+Hello World - A classic program for the beginner
